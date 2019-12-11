@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-module-resolver-standalone",
+  "description": "Module resolver plugin for Babel usable in both Node.js the web browser environments",
+  "main": "index.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "babel-plugin",
+    "module",
+    "resolver",
+    "babel",
+    "plugin",
+    "requirejs",
+    "browser",
+    "mapping"
+  ],
+  "homepage": "https://github.com/pranjal-goswami/babel-plugin-module-resolver-standalone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
